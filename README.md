@@ -53,3 +53,23 @@ This Section provides detailed information on selected products.
 
 ![](https://github.com/mona-baharlou/AdventureWorksPowerBIDashboard/blob/main/ProductDetail.PNG)
 
+
+
+# 4. Customer Dashboard
+Represents the dashboard related to customers.
+
+![](https://github.com/mona-baharlou/AdventureWorksPowerBIDashboard/blob/main/CustomerDashboard.PNG)
+
+# Key Metrics:
+
+Unique Customers: 17K
+
+Revenue Per Customer: $1.4K
+
+## Features:
+
+- Top customer by revenue
+
+- Top 100 customers
+
+
